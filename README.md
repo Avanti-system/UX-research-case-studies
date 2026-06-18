@@ -2,6 +2,7 @@
 Sample UX research plans and case studies — concept testing, pricing research, segmentation.
 
 **Project 1: New Product Concept**
+
 Task — Brief
 From: Client Product Team (cybersecurity SaaS)
 A cybersecurity software client is exploring a new product concept called "GuardianView" — a premium add-on for their core security suite that gives parents real-time visibility into their children's online activity, app usage, and screen time. The client wants to know whether home users with children aged 5–16 would actually pay for this, how they perceive the concept versus doing nothing or using free alternatives, and which features matter most.
