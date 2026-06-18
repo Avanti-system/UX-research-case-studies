@@ -11,11 +11,17 @@ A cybersecurity software client is exploring a new product concept called "Guard
 The task: design a research approach to validate this concept before the client invests in development.
 
 **INTRODUCTION**
+
 Title New Product Concept — GuardianView
+
 Author - Avanti Thakre · UX Researcher · avanti.thakre92@gmail.com
+
 Stakeholders - Product Manager, Product Team, VP Consumer Businesses
+
 Date - 04/06/2026
+
 Project Background - With children aged 5–16 spending more time online, parents face growing challenges managing screen time, content exposure, and digital safety concerns. To address this gap, the client is exploring a new product concept — "GuardianView" — a premium add-on for their core security suite that gives parents real-time visibility into their children's online activity, app usage, and screen time. This research aims to provide actionable recommendations on whether parents with children aged 5–16 would actually pay for this, and which feature is most in demand.
+
 Research Goals - Identify whether parents will buy a premium add-on for the client's core security product, and among the three candidate features (online activity, app usage, screen time) which drives purchase intent most strongly. Provide insight into whether parents understand the concept and would use it despite free alternatives.
 
 **RESEARCH QUESTIONS**
